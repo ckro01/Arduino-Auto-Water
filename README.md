@@ -14,7 +14,6 @@ The scalability factor is nice as well, because using a modern uC in combo with 
 
 
 I would like to make this project as open as possible, so the chassis will be designed with 3D printers in mind. An obvious challenge comes down to waterproofing, and tolerances will neeed to be tight to ensure that it does not leak.
-A concept drawing will be supplied soon, providing a basic design overview that will be tweaked as time goes on.  
+Basic Concept Drawing:
 
-
-To be continued...
+https://imgur.com/a/OKBxoMz 
